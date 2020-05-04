@@ -78,7 +78,7 @@ img{
     display: block;
     margin-left: auto;
     margin-right: auto
-} 
+}
 
 
 @font-face {
@@ -133,8 +133,8 @@ html {
   -webkit-font-smoothing: antialiased;
 }
 html, body {
-  background: #fff;
-  color: #000;
+  background: #222831;
+  color: #ececec;
   margin: 0;
   padding: 0;
 }
@@ -207,7 +207,7 @@ p, ul, ol {
 .a {
   font-size: xx-large;
   line-height: .875;
-  text-shadow: 0 0 2px #667;
+  text-shadow: 0 0 2px #222831;
 }
 .pf, .fr {
   border: 1px solid;
@@ -230,8 +230,8 @@ p, ul, ol {
 .pf h4 {
   margin: 0;
   padding: 4px;
-  background: black;
-  color: white;
+  background: #ececec;
+  color: #222831;
 }
 .ss {
   float: right;
@@ -252,11 +252,11 @@ a {
   text-decoration: none;
 }
 a:link {
-  color: FireBrick;
+  color: #ffacb7;
   border-bottom: 1px dotted;
 }
 a:visited {
-  color: RosyBrown;
+  color: #d66b7a;
   border-bottom: 1px dotted;
 }
 a:link:hover, a:visited:hover {
@@ -270,7 +270,7 @@ a:link:hover, a:visited:hover {
 
 .legend {
   font: italic x-large/1.75 "Essays 1743", "Marker Felt", "Kristen ITC", "Viner Hand ITC", "Lucida Handwriting", Amienne, Boopee, "Segoe Print", "Times New Roman", serif;
-  text-shadow: 0 0 1px #667;
+  text-shadow: 0 0 1px #30475e;
   margin-left: 0.5em;
   vertical-align: top;
 }
@@ -308,11 +308,11 @@ pre.ib {
 }
 mark {
   display: inline-block;
-  background: #ff8;
+  background: #30475e;
   border: 1px dotted #888;
 }
 .p {
-  color: #667;
+  color: #30475e;
 }
 
 /* overrides */
@@ -330,7 +330,7 @@ h1, h2, h3, h4, caption, thead th {
   font-family: "Essays 1743", Palatino, "Palatino Linotype", "Book Antiqua", Georgia, "Times New Roman", serif;
   font-weight: normal;
   text-transform: uppercase;
-  text-shadow: 0 0 1px #667;
+  text-shadow: 0 0 1px #30475e;
 }
 h1 {
   font-size: 266.7%;
@@ -400,7 +400,7 @@ tfoot {
 }
 
 .zebra {
-  background: #eee;
+  background: #30475e;
 }
 
 /* asterism styles */
